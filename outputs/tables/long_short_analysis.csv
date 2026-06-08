@@ -1,0 +1,49 @@
+classification,Direction,total_pnl,avg_pnl,trades
+Extreme Fear,Buy,0.0,0.0,807
+Extreme Fear,Close Long,506752.789816,81.19737058420125,6241
+Extreme Fear,Close Short,384638.543343,123.4002384802695,3117
+Extreme Fear,Long > Short,6.659778,1.3319556000000001,5
+Extreme Fear,Open Long,0.0,0.0,7005
+Extreme Fear,Open Short,0.0,0.0,3174
+Extreme Fear,Sell,-140692.642805,-135.0217301391555,1042
+Extreme Fear,Short > Long,-11595.101642000001,-1932.5169403333337,6
+Extreme Fear,Spot Dust Conversion,0.0,0.0,3
+Extreme Greed,Buy,0.0,0.0,5132
+Extreme Greed,Close Long,444316.003184,61.83078251934317,7186
+Extreme Greed,Close Short,188221.27096300002,28.97048960489457,6497
+Extreme Greed,Long > Short,844.206779,120.60096842857142,7
+Extreme Greed,Open Long,0.0,0.0,6300
+Extreme Greed,Open Short,0.0,0.0,7663
+Extreme Greed,Sell,2081660.346131,290.57235428964265,7164
+Extreme Greed,Short > Long,129.483616,11.771237818181818,11
+Extreme Greed,Spot Dust Conversion,0.0,0.0,32
+Fear,Buy,0.0,0.0,3207
+Fear,Close Long,1432581.917537,83.00011109716107,17260
+Fear,Close Short,1914986.462243,207.6766578725735,9221
+Fear,Long > Short,67.13898200000017,4.795641571428583,14
+Fear,Open Long,0.0,0.0,17824
+Fear,Open Short,0.0,0.0,10887
+Fear,Sell,-10567.053935,-3.1412169842449464,3364
+Fear,Short > Long,20086.976814999998,1115.9431563888888,18
+Fear,Spot Dust Conversion,0.0,0.0,42
+Greed,Auto-Deleveraging,57478.456026,7184.80700325,8
+Greed,Buy,0.0,0.0,4685
+Greed,Close Long,711490.517659,88.95855434596149,7998
+Greed,Close Short,624923.401153,55.195495597332624,11322
+Greed,Liquidated Isolated Short,-12752.91304,-12752.91304,1
+Greed,Long > Short,363.390575,22.7119109375,16
+Greed,Open Long,0.0,0.0,8544
+Greed,Open Short,0.0,0.0,11664
+Greed,Sell,766340.324487,128.02210566104245,5986
+Greed,Settlement,-29.215368,-29.215368,1
+Greed,Short > Long,2315.311459,100.66571560869565,23
+Greed,Spot Dust Conversion,0.0,0.0,55
+Neutral,Buy,0.0,0.0,2885
+Neutral,Close Long,527788.159351,52.815786985990194,9993
+Neutral,Close Short,554558.432744,94.79631328957265,5850
+Neutral,Long > Short,709.982894,47.33219293333333,15
+Neutral,Open Long,0.0,0.0,10222
+Neutral,Open Short,0.0,0.0,6353
+Neutral,Sell,210007.441755,89.51723859974425,2346
+Neutral,Short > Long,-143.3411940000001,-11.945099500000007,12
+Neutral,Spot Dust Conversion,0.0,0.0,10
